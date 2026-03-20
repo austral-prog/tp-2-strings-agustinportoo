@@ -64,4 +64,4 @@ def ficha():
     print(f"Promedio: {float(promedio)}")
     promedio_entero=(suma//3)
     print(f"Promedio entero: {promedio_entero}")
-    print("="*24) 
+    print("="*24)
