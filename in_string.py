@@ -14,4 +14,4 @@ def check_vowels():
     cont_o=("o" in nombre_min)
     print(f"Contiene o: {cont_o}")
     cont_u=("u" in nombre_min)
-    print(f"Contiene u: {cont_u}") 
+    print(f"Contiene u: {cont_u}")
