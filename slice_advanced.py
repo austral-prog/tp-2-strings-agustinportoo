@@ -4,4 +4,4 @@ def slice_advanced():
     """
     pass
     texto=input("Texto: ")
-    print(texto[4::2]) 
+    print(texto[4::2])
