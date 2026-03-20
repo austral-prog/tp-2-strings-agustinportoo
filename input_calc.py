@@ -10,4 +10,4 @@ def rectangle():
     area = (base*altura)
     print(f"Area: {area}")
     perimetro= (2*base + 2*altura)
-    print(f"Perimetro: {perimetro}") 
+    print(f"Perimetro: {perimetro}")
