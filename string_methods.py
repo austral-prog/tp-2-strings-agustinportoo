@@ -25,4 +25,4 @@ Linea 3"""
     print(f"Paso: {python[: :2]}")
     print(f"Reverso: {python[: :-1]}")
     print(f"Formato: {nombre.strip()+ " " +"sabe Python"}")
-    print(multilinea) 
+    print(multilinea)
