@@ -11,4 +11,4 @@ def names():
     print(f"{nombre_completo.lower()}")
     print(f"{nombre_completo.title()}")
     print(f"{nombre_completo.upper()}")
-    print(f"\t{nombre_completo.lower()}") 
+    print(f"\t{nombre_completo.lower()}")
